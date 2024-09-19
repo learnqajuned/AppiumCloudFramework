@@ -24,7 +24,7 @@ public class eCommerce_tc_1 extends Android_BaseTest{
 	}
 	@Test
 	public void fillform_ErrorValidation() throws InterruptedException {
-	//	driver.findElement(By.id("com.androidsample.generalstore:id/nameField")).sendKeys("Juned Saudagar");
+		driver.findElement(By.id("com.androidsample.generalstore:id/nameField")).sendKeys("Juned Saudagar");
 		driver.hideKeyboard();
 		driver.findElement(By.xpath("//android.widget.RadioButton[@text='Female']")).click();
 		driver.findElement(By.id("android:id/text1")).click();
@@ -35,7 +35,7 @@ public class eCommerce_tc_1 extends Android_BaseTest{
 		//To handle toast error messages use ..android.widget.Toast;
 		String toastMessage=driver.findElement(By.xpath("(//android.widget.Toast)[1]")).getAttribute("name");
 		Assert.assertEquals(toastMessage, "Please enter your name");
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 
 	}
 	@Test
@@ -51,7 +51,7 @@ public class eCommerce_tc_1 extends Android_BaseTest{
 		//To handle toast error messages use ..android.widget.Toast;
 		String toastMessage=driver.findElement(By.xpath("(//android.widget.Toast)[1]")).getAttribute("name");
 		Assert.assertEquals(toastMessage, "Please enter your name");
-		Thread.sleep(3000);
+		Thread.sleep(4000);
 
 	}
 }
