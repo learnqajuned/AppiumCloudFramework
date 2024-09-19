@@ -1,0 +1,47 @@
+10:49:21.526 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+10:49:21.663 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=3x65p4eoxcq4yrPotTxW, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.5, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=junedahmedsaudag_mN1avz, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.8]
+10:49:47.637 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:49:47.638 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:47.640 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumAppFramework
+10:49:47.641 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:49:47.642 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:47.644 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumAppFramework
+10:50:51.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:50:51.811 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:50:51.815 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumAppFramework_Cloud
+10:50:51.817 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:50:51.818 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:50:51.824 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumAppFramework_Cloud
+12:10:19.371 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:10:19.371 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:19.375 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumAppFramework_Cloud
+12:10:19.377 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:10:19.377 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:19.380 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumAppFramework_Cloud
+12:10:51.617 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:10:51.618 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:51.644 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumAppFramework_Cloud
+12:10:51.646 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:10:51.646 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:10:51.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumAppFramework_Cloud
+12:11:38.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:11:38.733 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:38.735 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumAppFramework_Cloud
+12:11:38.737 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:11:38.737 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:11:38.741 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumAppFramework_Cloud
+11:15:19.408 [Worker-182: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:15:19.543 [Worker-182: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+11:18:38.581 [Worker-185: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+11:18:38.586 [Worker-185: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:03:20.164 [Worker-237: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:03:20.260 [Worker-237: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:03:27.597 [main] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:06:27.215 [Worker-243: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:08:35.299 [Worker-243: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:08:35.301 [Worker-243: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:09:48.021 [Worker-246: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:09:48.023 [Worker-246: Launching ECommerece_TC] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:12:02.519 [Worker-240: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:12:02.521 [Worker-240: Launching ECommerece_TC_A] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:37:18.749 [Framework stop - Equinox Container: a66f070e-d5e8-46f7-a044-249dac76e7cc] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

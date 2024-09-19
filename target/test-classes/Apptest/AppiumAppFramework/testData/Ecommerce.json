@@ -1,0 +1,16 @@
+[
+	{
+		
+		"name":"Juned",
+		"gender"="male"
+		"country"= "Argentina"
+		
+	},
+	{
+		
+		"name":"Sonu",
+				"gender"="female"
+				"country"= "Argentina"
+		
+	}
+]
